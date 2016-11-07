@@ -1,0 +1,37 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Informatica Po.com" resolutions="1x" timestamp="1478543892908">
+  <folder name="css">
+    <file name="site_global.css" crc="371109379"/>
+    <file name="master_a-master.css" crc="513879489" ref="index:stof-informatica-actief:valentijn:michiel:bronvermelding"/>
+    <file name="index.css" crc="3829783783" ref="index"/>
+    <file name="stof-informatica-actief.css" crc="3894692097" ref="stof-informatica-actief"/>
+    <file name="valentijn.css" crc="3975363548" ref="valentijn"/>
+    <file name="michiel.css" crc="302579882" ref="michiel"/>
+    <file name="bronvermelding.css" crc="77977081" ref="bronvermelding"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="museutils.js" crc="163421577" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="whatinput.js" crc="86476730" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="museconfig.js" crc="36584860" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="require.js" crc="244322403" ref="index:stof-informatica-actief:michiel:valentijn:bronvermelding"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="michiel:index:stof-informatica-actief:valentijn:bronvermelding"/>
+  </folder>
+  <folder name="images">
+    <file name="ios_7_galaxy-1920x1080.jpg" crc="3996436408" ref="michiel"/>
+    <file name="diego-costa1.jpg" crc="74278887" ref="michiel"/>
+    <file name="img3.jpg" crc="4206296992" ref="index"/>
+    <file name="space background p1 4.jpg" crc="13808115" ref="valentijn"/>
+    <file name="space cloud png p1 1.png" crc="3878452985" ref="stof-informatica-actief:bronvermelding"/>
+    <file name="s1060034.jpg" crc="139740590" ref="valentijn"/>
+    <file name="space background p1 4-u777-fr.jpg" crc="4020175531" ref="index"/>
+    <file name="chelseaimg.png" crc="342572959" ref="michiel"/>
+  </folder>
+  <file name="index.html" crc="4189824871" seo="true" mt="1478543891265" redirect="true"/>
+  <file name="stof-informatica-actief.html" crc="3980732835" seo="true" mt="1478533931074" redirect="true"/>
+  <file name="michiel.html" crc="4189118089" seo="true" mt="1478543830068" redirect="true"/>
+  <file name="valentijn.html" crc="380914895" seo="true" mt="1478543891421" redirect="true"/>
+  <file name="bronvermelding.html" crc="3845498476" seo="true" mt="1478534030285" redirect="true"/>
+</manifest>
